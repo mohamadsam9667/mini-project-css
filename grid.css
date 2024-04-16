@@ -15,9 +15,25 @@
 .countainer .item1{
     grid-column: 1/3;
     grid-row: 1/3;
-    }
+    background-image:url(./bacgrond/sam.jpg)
+}
+.countainer .item2{
+    background-image: url(./bacgrond/Honda\ CBR600RR\ 2013\ Review\ Used\ Price\ Spec_01.jpg);
+}
 
-    .item6{
-        grid-row: 3/5;
-        grid-column:4/2;
-    }
+.countainer .item3{
+    background-image: url(./bacgrond/Honda\ CBR600RR\ 2013\ Review\ Used\ Price\ Spec_01.jpg);
+}
+
+.countainer .item4{
+    background-image: url(./bacgrond/Honda\ CBR600RR\ 2013\ Review\ Used\ Price\ Spec_01.jpg);
+}
+
+.countainer .item5{
+    background-image: url(./bacgrond/Honda\ CBR600RR\ 2013\ Review\ Used\ Price\ Spec_01.jpg);
+}
+.countainer .item6{
+    grid-row: 3/5;
+    grid-column:4/2;
+    background-image: url(./bacgrond/sam11.jpg);
+}
