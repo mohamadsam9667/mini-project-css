@@ -43,7 +43,7 @@ section::after{
     width:400px;
     height: 270px;
     z-index: 100;
-    transition: 1s;
+    transition: 0.8s;
     transform-style: preserve-3d; 
 }
 
