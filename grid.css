@@ -191,6 +191,11 @@ h5.name{
         z-index: 100;
         
     }
+    .countainer .name-number h5{
+        color: #000;
+        font-size: 20px;
+        
+    }
     
 }
 
